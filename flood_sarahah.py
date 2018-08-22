@@ -1,6 +1,4 @@
 from stem.process import launch_tor_with_config
-from stem import Signal
-from stem.control import Controller
 import time
 import atexit
 import argparse
