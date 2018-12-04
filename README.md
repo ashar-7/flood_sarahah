@@ -9,8 +9,9 @@ Example:
 `python flood_sarahah.py -n 10 -u asharse7en -m message`
 
 Requirements:
-<li>  Tor (https://www.torproject.org/) </li>
-<ul>  Python Packages:
+<li> Tor (https://www.torproject.org/) </li>
+<li> Python Packages: </li>
+<ul>
       <li>  stem </li>
       <li>  requests </li>
 </ul>
